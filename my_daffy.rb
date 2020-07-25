@@ -18,6 +18,3 @@ elsif user_input.length == 0
   puts 'You call that an utteranth? There\'th no etheth in there! My job 
 ith to emphathizh etheth!' 
 end
- 
-
-#When I learn how to loop back to the beginning of the conditional, I could revise give the oops-no-esses writers and the silent types another chance to participate without restarting the program
